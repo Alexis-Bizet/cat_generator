@@ -1,0 +1,33 @@
+.body-cats{
+    max-width: 700px;
+   margin: 0 auto;
+   text-align: center;
+   background-color: #824538;
+}
+
+.title{
+    font-size: 50px;
+    border: solid 1px ;
+    border-radius: 10px;
+    color: white;
+    width: 50%;
+    margin: 0 auto;
+    margin-top: 40px;
+}
+
+.btn-generate{
+    border-radius: 10px;
+    border: 4px double #cccccc;
+    width: 200px;
+    padding: 20px;
+    cursor: pointer;
+    font-size: 20px;
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
+
+.show-cats{
+    width: 400px;
+    height: 400px;
+    border-radius: 30px;
+}
